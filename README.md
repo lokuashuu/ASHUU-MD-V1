@@ -1,10 +1,9 @@
 <div align="center">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=📍𝐀𝐒𝐇𝐔𝐔+𝐌𝐃+𝐕1+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓)](https://git.io/typing-svg)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+ 
 #𝐀𝐒𝐇𝐔𝐔 𝐌𝐃 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐁𝐘 𝐂𝐘𝐁𝐄𝐑 𝐋𝐎𝐊𝐔 𝐀𝐒𝐇𝐔𝐔...📍
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
@@ -22,7 +21,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 ---
 
 ## 🚀 Steps to Deploy
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ### Step 1: Fork the Repository
 
 Click the button below to fork the Ashuu-MD Bot repository to your GitHub account:
@@ -34,20 +33,20 @@ Click the button below to fork the Ashuu-MD Bot repository to your GitHub accoun
 </div>
 
 ---
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ### Step 2: Get Pair Code 
 
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to get your pairing code.
 
 <div align="center">
-<a href="https://prabath-md-pair-web-v2-slk.koyeb.app/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-blue?style=for-the-badge&logo=render"></a>
+<a href="https://prabath-md-pair-web-v2-slk.koyeb.app/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-red?style=for-the-badge&logo=render"></a>
   </a>
 </div>
 
 ### After getting your session-id, add it to settings.js file
 
 ---
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ### Step 3: Deploy Now
 
 For further customization and setup guidance, click the button below:
@@ -65,7 +64,7 @@ For further customization and setup guidance, click the button below:
 ### Free & Paid Hosting Options
 
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Chutialabbh/ASHUU-MD-V1
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Chutialabbh/ASHUU-MD-V1)
 
 
 ### Additional Hosting Panels
