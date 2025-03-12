@@ -1,6 +1,13 @@
-#📍𝐀𝐒𝐇𝐔𝐔-𝐌𝐃-𝐕1 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓   💗
+<div align="center">
 
-## 𝐀𝐒𝐇𝐔𝐔 𝐌𝐃 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐁𝐘 𝐂𝐘𝐁𝐄𝐑 𝐋𝐎𝐊𝐔 𝐀𝐒𝐇𝐔𝐔...📍
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=📍𝐀 𝐒 𝐇 𝐔 𝐔+𝐌 𝐃+𝐕 1+𝐖 𝐇 𝐀 𝐓 𝐒 𝐀 𝐏 𝐏+𝐁 𝐎 𝐓)](https://git.io/typing-svg)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=𝐀𝐒𝐇𝐔𝐔+𝐌𝐃+𝐁𝐎𝐓+𝐂𝐑𝐄𝐀𝐓𝐄+𝐁𝐘+𝐂𝐘𝐁𝐄𝐑+𝐋𝐎𝐊𝐔+𝐀𝐒𝐇𝐔𝐔..." alt="Typing SVG" /></a>
+  </p>
+
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -12,7 +19,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://www.youtube.com/@Ashuu-xd-kh1hm"> 
-    <img src="https://files.catbox.moe/gxdh7k.jpg" alt="ASHUU-MD WA BOT" height="300" width="650">
+    <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="ASHUU-MD WA BOT" height="300" width="650">
   </a> 
 </div>
 
@@ -62,7 +69,7 @@ For further customization and setup guidance, click the button below:
 ### Free & Paid Hosting Options
 
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Chutialabbh/ASHUU-MD-V1)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Chutialabbh/ASHUU-MD-V1
 
 
 ### Additional Hosting Panels
