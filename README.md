@@ -27,7 +27,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Ashuu-MD Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/Chutialabbh/ASHUU-MD-V1/fork">
+  <a href="https://github.com/lokuashuu/ASHUU-MD-V1/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -64,7 +64,7 @@ For further customization and setup guidance, click the button below:
 ### Free & Paid Hosting Options
 
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Chutialabbh/ASHUU-MD-V1)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/lokuashuu/ASHUU-MD-V1)
 
 
 ### Additional Hosting Panels
@@ -173,7 +173,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Chutialabbh/ASHUU-MD-V1.git
+    git clone https://github.com/lokuashuu/ASHUU-MD-V1.git
     cd ASHUU-MD-V1
     ```
 
@@ -198,25 +198,25 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Chutialabbh/ASHUU-MD-V1/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/lokuashuu/ASHUU-MD-V1/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Chutialabbh/ASHUU-MD-V1/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/lokuashuu/ASHUU-MD-V/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/Chutialabbh/ASHUU-MD-V1)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/lokuashuu/ASHUU-MD-V1)!
 
 
 ## Credits
 
 
-- [Loku-Ashuu-Xd](https://github.com/Chutialabbh/ASHUU-MD-V1)
+- [Loku-Ashuu-Xd](https://github.com/lokuashuu/ASHUU-MD-V1)
 
 ## ⚠️ Important Warning
 
