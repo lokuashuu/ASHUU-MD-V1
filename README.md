@@ -12,7 +12,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://www.youtube.com/@Ashuu-xd-kh1hm"> 
-    <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="ASHUU-MD WA BOT" height="300" width="650">
+    <img src="https://files.catbox.moe/gxdh7k.jpg" alt="ASHUU-MD WA BOT" height="300" width="650">
   </a> 
 </div>
 
@@ -62,7 +62,7 @@ For further customization and setup guidance, click the button below:
 ### Free & Paid Hosting Options
 
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Chutialabbh/ASHUU-MD-V1
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Chutialabbh/ASHUU-MD-V1)
 
 
 ### Additional Hosting Panels
