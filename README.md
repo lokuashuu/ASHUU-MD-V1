@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ##𝐀𝐒𝐇𝐔𝐔 𝐌𝐃 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐁𝐘 𝐂𝐘𝐁𝐄𝐑 𝐋𝐎𝐊𝐔 𝐀𝐒𝐇𝐔𝐔...📍
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -15,10 +16,10 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://www.youtube.com/@Ashuu-xd-kh1hm"> 
-    <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="ASHUU-MD WA BOT" height="300" width="650">
+    <img src="https://files.catbox.moe/gxdh7k.jpg" alt="ASHUU-MD WA BOT" height="300" width="650">
   </a> 
 </div>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ---
 
 ## 🚀 Steps to Deploy
