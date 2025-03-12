@@ -4,7 +4,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ##𝐀𝐒𝐇𝐔𝐔 𝐌𝐃 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄 𝐁𝐘 𝐂𝐘𝐁𝐄𝐑 𝐋𝐎𝐊𝐔 𝐀𝐒𝐇𝐔𝐔...📍
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -23,7 +22,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 ---
 
 ## 🚀 Steps to Deploy
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ### Step 1: Fork the Repository
 
 Click the button below to fork the Ashuu-MD Bot repository to your GitHub account:
@@ -35,7 +34,7 @@ Click the button below to fork the Ashuu-MD Bot repository to your GitHub accoun
 </div>
 
 ---
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ### Step 2: Get Pair Code 
 
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to get your pairing code.
@@ -48,7 +47,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 ### After getting your session-id, add it to settings.js file
 
 ---
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ### Step 3: Deploy Now
 
 For further customization and setup guidance, click the button below:
